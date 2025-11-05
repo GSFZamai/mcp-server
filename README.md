@@ -17,3 +17,4 @@ Ainda será desenvolvido
 ## Referências
 
 [Documentação Protocolo MCP](https://modelcontextprotocol.io/)
+[DIY - BUilding a MCP Server](https://www.youtube.com/watch?v=nTMSyldeVSw)

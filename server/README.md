@@ -1,6 +1,6 @@
 # Sobre
 
-O servidor possui as tools abaixo:
+O servidor possui as _tools_ listadas abaixo:
 
 - `getDrinkNames` - Lista nome das bebidas disponíveis;
 - `getDrinkDetails` - Descreve os detalhes da bebida;
