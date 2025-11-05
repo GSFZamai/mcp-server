@@ -2,7 +2,7 @@
   "mcpServers": {
     "default-server": {
       "command": "node",
-      "args": ["dist/index.js", "--debug"]
+      "args": ["dist/index.js"]
     }
   }
 }
