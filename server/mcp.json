@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "default-server": {
+      "command": "node",
+      "args": ["dist/index.js", "--debug"]
+    }
+  }
+}
